@@ -13,3 +13,4 @@ export const mockThree = () => {
 export const unmockedFunction = () => {
   console.log('I am not mocked');
 };
+
